@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 20px;
+}
+div{
+    background: midnightblue;
+}
+body{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background: midnightblue;
+}
+
+img{
+    width: 500px;
+    height: 400px;
+  
+}
+h1{
+    font-size: 100px;
+    background: white;
+    
+}
+label{
+ font-size: 20px;
+}
+h3{
+    font-size: 10px;
+    background: white;
+    
+}
+span{
+ font-size: 10px;
+ background: white;
+}
+signo{
+  background: white;
+}
